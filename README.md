@@ -20,12 +20,9 @@ utilizing the SecurityTrails API to enumerate all possible subdomains
 ## Example
 
 $ python subdomain_collector.py
+
 Enter the domain: example.com
 Enter your SecurityTrails API key: [Your API Key]
-Subdomains of example.com:
-subdomain1.example.com
-subdomain2.example.com
-...
 Enter the filename to save subdomains: example_subdomains.txt
 Subdomains saved to example_subdomains.txt
 
